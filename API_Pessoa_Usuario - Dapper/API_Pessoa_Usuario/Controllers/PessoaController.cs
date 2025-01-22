@@ -6,7 +6,7 @@ using Microsoft.AspNetCore.Mvc;
 namespace API_Pessoa_Usuario.Controllers;
 
 [ApiController]
-[Route("api/vi/pessoa")]
+[Route("api/vi/pessoa/dapper")]
 public class PessoaController : ControllerBase
 {
     private readonly IPessoaRepository _pessoaRepo;

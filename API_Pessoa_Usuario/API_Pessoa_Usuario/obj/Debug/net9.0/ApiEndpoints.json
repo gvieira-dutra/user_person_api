@@ -83,7 +83,7 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "API_Pessoa_Usuario.Entities.PessoaPorDocDTO",
+        "Type": "API_Pessoa_Usuario.DTO.PessoaPorDocDTO",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -125,7 +125,7 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.List\u00601[[API_Pessoa_Usuario.Entities.PessoaPorDocDTO, API_Pessoa_Usuario, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "System.Collections.Generic.List\u00601[[API_Pessoa_Usuario.DTO.PessoaPorDocDTO, API_Pessoa_Usuario, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -255,7 +255,7 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "API_Pessoa_Usuario.Entities.UsuarioLoginDTO",
+        "Type": "API_Pessoa_Usuario.DTO.UsuarioLoginDTO",
         "MediaTypes": [
           "text/plain",
           "application/json",

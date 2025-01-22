@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "API_Pessoa_Usuario\\API_Pessoa_Usuario.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "..\\API_Pessoa_Usuario - Dapper\\API_Pessoa_Usuario\\API_Pessoa_Usuario_Dapper.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

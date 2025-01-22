@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Q+0eZ+64svo=",
+  "dgSpecHash": "O7ziufKo5/k=",
   "success": true,
-  "projectFilePath": "C:\\repos\\AutoCom\\API_Pessoa_Usuario - Dapper\\API_Pessoa_Usuario\\API_Pessoa_Usuario_Dapper.csproj",
+  "projectFilePath": "C:\\repos\\AutoCom\\user_person_api\\API_Pessoa_Usuario - Dapper\\API_Pessoa_Usuario\\API_Pessoa_Usuario_Dapper.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vieir\\.nuget\\packages\\dapper\\2.1.35\\dapper.2.1.35.nupkg.sha512",
     "C:\\Users\\vieir\\.nuget\\packages\\dapper.contrib\\2.0.78\\dapper.contrib.2.0.78.nupkg.sha512",

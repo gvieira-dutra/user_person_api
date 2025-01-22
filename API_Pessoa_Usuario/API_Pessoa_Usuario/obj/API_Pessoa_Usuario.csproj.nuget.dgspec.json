@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\repos\\AutoCom\\API_Pessoa_Usuario\\API_Pessoa_Usuario\\API_Pessoa_Usuario.csproj": {}
+    "C:\\repos\\AutoCom\\user_person_api\\API_Pessoa_Usuario\\API_Pessoa_Usuario\\API_Pessoa_Usuario.csproj": {}
   },
   "projects": {
-    "C:\\repos\\AutoCom\\API_Pessoa_Usuario\\API_Pessoa_Usuario\\API_Pessoa_Usuario.csproj": {
+    "C:\\repos\\AutoCom\\user_person_api\\API_Pessoa_Usuario\\API_Pessoa_Usuario\\API_Pessoa_Usuario.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\repos\\AutoCom\\API_Pessoa_Usuario\\API_Pessoa_Usuario\\API_Pessoa_Usuario.csproj",
+        "projectUniqueName": "C:\\repos\\AutoCom\\user_person_api\\API_Pessoa_Usuario\\API_Pessoa_Usuario\\API_Pessoa_Usuario.csproj",
         "projectName": "API_Pessoa_Usuario",
-        "projectPath": "C:\\repos\\AutoCom\\API_Pessoa_Usuario\\API_Pessoa_Usuario\\API_Pessoa_Usuario.csproj",
+        "projectPath": "C:\\repos\\AutoCom\\user_person_api\\API_Pessoa_Usuario\\API_Pessoa_Usuario\\API_Pessoa_Usuario.csproj",
         "packagesPath": "C:\\Users\\vieir\\.nuget\\packages\\",
-        "outputPath": "C:\\repos\\AutoCom\\API_Pessoa_Usuario\\API_Pessoa_Usuario\\obj\\",
+        "outputPath": "C:\\repos\\AutoCom\\user_person_api\\API_Pessoa_Usuario\\API_Pessoa_Usuario\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

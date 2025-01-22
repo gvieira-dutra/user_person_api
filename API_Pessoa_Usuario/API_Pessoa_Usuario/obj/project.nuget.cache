@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "QHXR4ge3wn0=",
+  "success": true,
+  "projectFilePath": "C:\\repos\\AutoCom\\user_person_api\\API_Pessoa_Usuario\\API_Pessoa_Usuario\\API_Pessoa_Usuario.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vieir\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.0\\microsoft.aspnetcore.openapi.9.0.0.nupkg.sha512",
+    "C:\\Users\\vieir\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\vieir\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.2\\microsoft.extensions.logging.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\vieir\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512",
+    "C:\\Users\\vieir\\.nuget\\packages\\npgsql\\9.0.2\\npgsql.9.0.2.nupkg.sha512",
+    "C:\\Users\\vieir\\.nuget\\packages\\scalar.aspnetcore\\2.0.1\\scalar.aspnetcore.2.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

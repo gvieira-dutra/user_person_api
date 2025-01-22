@@ -7,7 +7,7 @@ using Microsoft.AspNetCore.Mvc;
 namespace API_Pessoa_Usuario.Controllers;
 
 [ApiController]
-[Route("api/vi/usuario")]
+[Route("api/vi/usuario/dapper")]
 public class UsuarioController : ControllerBase
 {
     private readonly IUsuarioRepository _usuarioRepo;

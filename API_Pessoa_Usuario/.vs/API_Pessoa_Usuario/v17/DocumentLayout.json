@@ -1,26 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\repos\\AutoCom\\API_Pessoa_Usuario\\",
+  "WorkspaceRootPath": "C:\\repos\\AutoCom\\user_person_api\\API_Pessoa_Usuario\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2C039E4F-DB5A-4FE8-8C37-CCB284DC5937}|API_Pessoa_Usuario\\API_Pessoa_Usuario.csproj|c:\\repos\\autocom\\api_pessoa_usuario\\api_pessoa_usuario\\repository\\usuariorepository\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C039E4F-DB5A-4FE8-8C37-CCB284DC5937}|API_Pessoa_Usuario\\API_Pessoa_Usuario.csproj|solutionrelative:api_pessoa_usuario\\repository\\usuariorepository\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E811E51C-5717-4C8D-8BD1-C034BEFFFB99}|..\\API_Pessoa_Usuario - Dapper\\API_Pessoa_Usuario\\API_Pessoa_Usuario_Dapper.csproj|c:\\repos\\autocom\\user_person_api\\api_pessoa_usuario - dapper\\api_pessoa_usuario\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C039E4F-DB5A-4FE8-8C37-CCB284DC5937}|API_Pessoa_Usuario\\API_Pessoa_Usuario.csproj|c:\\repos\\autocom\\api_pessoa_usuario\\api_pessoa_usuario\\repository\\usuariorepository\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C039E4F-DB5A-4FE8-8C37-CCB284DC5937}|API_Pessoa_Usuario\\API_Pessoa_Usuario.csproj|solutionrelative:api_pessoa_usuario\\repository\\usuariorepository\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E811E51C-5717-4C8D-8BD1-C034BEFFFB99}|..\\API_Pessoa_Usuario - Dapper\\API_Pessoa_Usuario\\API_Pessoa_Usuario_Dapper.csproj|c:\\repos\\autocom\\user_person_api\\api_pessoa_usuario - dapper\\api_pessoa_usuario\\api_pessoa_usuario.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C039E4F-DB5A-4FE8-8C37-CCB284DC5937}|API_Pessoa_Usuario\\API_Pessoa_Usuario.csproj|c:\\repos\\autocom\\api_pessoa_usuario\\api_pessoa_usuario\\dto\\usuariodocdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C039E4F-DB5A-4FE8-8C37-CCB284DC5937}|API_Pessoa_Usuario\\API_Pessoa_Usuario.csproj|solutionrelative:api_pessoa_usuario\\dto\\usuariodocdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2C039E4F-DB5A-4FE8-8C37-CCB284DC5937}|API_Pessoa_Usuario\\API_Pessoa_Usuario.csproj|c:\\repos\\autocom\\user_person_api\\api_pessoa_usuario\\api_pessoa_usuario\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2C039E4F-DB5A-4FE8-8C37-CCB284DC5937}|API_Pessoa_Usuario\\API_Pessoa_Usuario.csproj|solutionrelative:api_pessoa_usuario\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C039E4F-DB5A-4FE8-8C37-CCB284DC5937}|API_Pessoa_Usuario\\API_Pessoa_Usuario.csproj|c:\\repos\\autocom\\api_pessoa_usuario\\api_pessoa_usuario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C039E4F-DB5A-4FE8-8C37-CCB284DC5937}|API_Pessoa_Usuario\\API_Pessoa_Usuario.csproj|solutionrelative:api_pessoa_usuario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E811E51C-5717-4C8D-8BD1-C034BEFFFB99}|..\\API_Pessoa_Usuario - Dapper\\API_Pessoa_Usuario\\API_Pessoa_Usuario_Dapper.csproj|c:\\repos\\autocom\\user_person_api\\api_pessoa_usuario - dapper\\api_pessoa_usuario\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C039E4F-DB5A-4FE8-8C37-CCB284DC5937}|API_Pessoa_Usuario\\API_Pessoa_Usuario.csproj|c:\\repos\\autocom\\api_pessoa_usuario\\api_pessoa_usuario\\repository\\pessoarepository\\ipessoarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C039E4F-DB5A-4FE8-8C37-CCB284DC5937}|API_Pessoa_Usuario\\API_Pessoa_Usuario.csproj|solutionrelative:api_pessoa_usuario\\repository\\pessoarepository\\ipessoarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E811E51C-5717-4C8D-8BD1-C034BEFFFB99}|..\\API_Pessoa_Usuario - Dapper\\API_Pessoa_Usuario\\API_Pessoa_Usuario_Dapper.csproj|c:\\repos\\autocom\\user_person_api\\api_pessoa_usuario - dapper\\api_pessoa_usuario\\controllers\\pessoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,8 +26,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\repos\\AutoCom\\user_person_api\\API_Pessoa_Usuario - Dapper\\API_Pessoa_Usuario\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "..\\API_Pessoa_Usuario - Dapper\\API_Pessoa_Usuario\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\repos\\AutoCom\\user_person_api\\API_Pessoa_Usuario - Dapper\\API_Pessoa_Usuario\\Properties\\launchSettings.json",
+              "RelativeToolTip": "..\\API_Pessoa_Usuario - Dapper\\API_Pessoa_Usuario\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-22T15:03:33.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "API_Pessoa_Usuario.http",
+              "DocumentMoniker": "C:\\repos\\AutoCom\\user_person_api\\API_Pessoa_Usuario - Dapper\\API_Pessoa_Usuario\\API_Pessoa_Usuario.http",
+              "RelativeDocumentMoniker": "..\\API_Pessoa_Usuario - Dapper\\API_Pessoa_Usuario\\API_Pessoa_Usuario.http",
+              "ToolTip": "C:\\repos\\AutoCom\\user_person_api\\API_Pessoa_Usuario - Dapper\\API_Pessoa_Usuario\\API_Pessoa_Usuario.http",
+              "RelativeToolTip": "..\\API_Pessoa_Usuario - Dapper\\API_Pessoa_Usuario\\API_Pessoa_Usuario.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-01-22T15:03:27.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\repos\\AutoCom\\user_person_api\\API_Pessoa_Usuario\\API_Pessoa_Usuario\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "API_Pessoa_Usuario\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\repos\\AutoCom\\user_person_api\\API_Pessoa_Usuario\\API_Pessoa_Usuario\\Properties\\launchSettings.json",
+              "RelativeToolTip": "API_Pessoa_Usuario\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-22T15:03:18.059Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
@@ -46,64 +81,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UsuarioRepository.cs",
-              "DocumentMoniker": "C:\\repos\\AutoCom\\API_Pessoa_Usuario\\API_Pessoa_Usuario\\Repository\\UsuarioRepository\\UsuarioRepository.cs",
-              "RelativeDocumentMoniker": "API_Pessoa_Usuario\\Repository\\UsuarioRepository\\UsuarioRepository.cs",
-              "ToolTip": "C:\\repos\\AutoCom\\API_Pessoa_Usuario\\API_Pessoa_Usuario\\Repository\\UsuarioRepository\\UsuarioRepository.cs",
-              "RelativeToolTip": "API_Pessoa_Usuario\\Repository\\UsuarioRepository\\UsuarioRepository.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAwAQBAAAiAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\repos\\AutoCom\\user_person_api\\API_Pessoa_Usuario - Dapper\\API_Pessoa_Usuario\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "..\\API_Pessoa_Usuario - Dapper\\API_Pessoa_Usuario\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\repos\\AutoCom\\user_person_api\\API_Pessoa_Usuario - Dapper\\API_Pessoa_Usuario\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "..\\API_Pessoa_Usuario - Dapper\\API_Pessoa_Usuario\\Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-20T12:54:06.491Z",
+              "WhenOpened": "2025-01-22T15:01:03.923Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\repos\\AutoCom\\API_Pessoa_Usuario\\API_Pessoa_Usuario\\Program.cs",
-              "RelativeDocumentMoniker": "API_Pessoa_Usuario\\Program.cs",
-              "ToolTip": "C:\\repos\\AutoCom\\API_Pessoa_Usuario\\API_Pessoa_Usuario\\Program.cs",
-              "RelativeToolTip": "API_Pessoa_Usuario\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-20T14:35:18.492Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "IUsuarioRepository.cs",
-              "DocumentMoniker": "C:\\repos\\AutoCom\\API_Pessoa_Usuario\\API_Pessoa_Usuario\\Repository\\UsuarioRepository\\IUsuarioRepository.cs",
-              "RelativeDocumentMoniker": "API_Pessoa_Usuario\\Repository\\UsuarioRepository\\IUsuarioRepository.cs",
-              "ToolTip": "C:\\repos\\AutoCom\\API_Pessoa_Usuario\\API_Pessoa_Usuario\\Repository\\UsuarioRepository\\IUsuarioRepository.cs",
-              "RelativeToolTip": "API_Pessoa_Usuario\\Repository\\UsuarioRepository\\IUsuarioRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-20T12:53:22.132Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UsuarioDocDTO.cs",
-              "DocumentMoniker": "C:\\repos\\AutoCom\\API_Pessoa_Usuario\\API_Pessoa_Usuario\\DTO\\UsuarioDocDTO.cs",
-              "RelativeDocumentMoniker": "API_Pessoa_Usuario\\DTO\\UsuarioDocDTO.cs",
-              "ToolTip": "C:\\repos\\AutoCom\\API_Pessoa_Usuario\\API_Pessoa_Usuario\\DTO\\UsuarioDocDTO.cs",
-              "RelativeToolTip": "API_Pessoa_Usuario\\DTO\\UsuarioDocDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-20T14:22:13.234Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "IPessoaRepository.cs",
-              "DocumentMoniker": "C:\\repos\\AutoCom\\API_Pessoa_Usuario\\API_Pessoa_Usuario\\Repository\\PessoaRepository\\IPessoaRepository.cs",
-              "RelativeDocumentMoniker": "API_Pessoa_Usuario\\Repository\\PessoaRepository\\IPessoaRepository.cs",
-              "ToolTip": "C:\\repos\\AutoCom\\API_Pessoa_Usuario\\API_Pessoa_Usuario\\Repository\\PessoaRepository\\IPessoaRepository.cs",
-              "RelativeToolTip": "API_Pessoa_Usuario\\Repository\\PessoaRepository\\IPessoaRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
+              "Title": "PessoaController.cs",
+              "DocumentMoniker": "C:\\repos\\AutoCom\\user_person_api\\API_Pessoa_Usuario - Dapper\\API_Pessoa_Usuario\\Controllers\\PessoaController.cs",
+              "RelativeDocumentMoniker": "..\\API_Pessoa_Usuario - Dapper\\API_Pessoa_Usuario\\Controllers\\PessoaController.cs",
+              "ToolTip": "C:\\repos\\AutoCom\\user_person_api\\API_Pessoa_Usuario - Dapper\\API_Pessoa_Usuario\\Controllers\\PessoaController.cs",
+              "RelativeToolTip": "..\\API_Pessoa_Usuario - Dapper\\API_Pessoa_Usuario\\Controllers\\PessoaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-20T13:02:13.373Z"
+              "WhenOpened": "2025-01-22T15:00:56.891Z",
+              "EditorCaption": ""
             }
           ]
         },
