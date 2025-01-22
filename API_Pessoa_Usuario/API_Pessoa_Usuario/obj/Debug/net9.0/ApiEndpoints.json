@@ -1,0 +1,332 @@
+[
+  {
+    "ContainingType": "API_Pessoa_Usuario.Controllers.PessoaController",
+    "Method": "Post",
+    "RelativePath": "api/vi/pessoa",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pessoa",
+        "Type": "API_Pessoa_Usuario.Entities.Pessoa",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "API_Pessoa_Usuario.Entities.Pessoa",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "API_Pessoa_Usuario.Controllers.PessoaController",
+    "Method": "PutPessoa",
+    "RelativePath": "api/vi/pessoa/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "pessoa",
+        "Type": "API_Pessoa_Usuario.Entities.PessoaEdit",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_Pessoa_Usuario.Controllers.PessoaController",
+    "Method": "DeletePessoa",
+    "RelativePath": "api/vi/pessoa/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "deleteModel",
+        "Type": "API_Pessoa_Usuario.Entities.PessoaDeleteModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_Pessoa_Usuario.Controllers.PessoaController",
+    "Method": "GetPorCpfCnpj",
+    "RelativePath": "api/vi/pessoa/por-cpfcnpj/{cpfCnpj}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cpfCnpj",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "API_Pessoa_Usuario.Entities.PessoaPorDocDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "API_Pessoa_Usuario.Controllers.PessoaController",
+    "Method": "GetPessoaPorId",
+    "RelativePath": "api/vi/pessoa/por-id/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_Pessoa_Usuario.Controllers.PessoaController",
+    "Method": "GetPorIdentidade",
+    "RelativePath": "api/vi/pessoa/por-identidade/{identidade}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "identidade",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[API_Pessoa_Usuario.Entities.PessoaPorDocDTO, API_Pessoa_Usuario, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "API_Pessoa_Usuario.Controllers.PessoaController",
+    "Method": "GetPessoaPorNome",
+    "RelativePath": "api/vi/pessoa/por-nome/{nome}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "nome",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "API_Pessoa_Usuario.Entities.Pessoa",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "API_Pessoa_Usuario.Controllers.UsuarioController",
+    "Method": "Post",
+    "RelativePath": "api/vi/usuario",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "novoUsuario",
+        "Type": "API_Pessoa_Usuario.Entities.Usuario",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "API_Pessoa_Usuario.Entities.Usuario",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "API_Pessoa_Usuario.Controllers.UsuarioController",
+    "Method": "Put",
+    "RelativePath": "api/vi/usuario/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "usuario",
+        "Type": "API_Pessoa_Usuario.Entities.UsuarioEdit",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "API_Pessoa_Usuario.Entities.Usuario",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "API_Pessoa_Usuario.Controllers.UsuarioController",
+    "Method": "Delete",
+    "RelativePath": "api/vi/usuario/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "deleteInfo",
+        "Type": "API_Pessoa_Usuario.Entities.UsuarioDeleteModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_Pessoa_Usuario.Controllers.UsuarioController",
+    "Method": "PostLogin",
+    "RelativePath": "api/vi/usuario/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "usuarioInfo",
+        "Type": "API_Pessoa_Usuario.Entities.UsuarioLogin",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "API_Pessoa_Usuario.Entities.UsuarioLoginDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "API_Pessoa_Usuario.Controllers.UsuarioController",
+    "Method": "GetUsuarioPorApelido",
+    "RelativePath": "api/vi/usuario/por-apelido/{apelido}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "apelido",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_Pessoa_Usuario.Controllers.UsuarioController",
+    "Method": "GetUsuarioPorCpfCnpj",
+    "RelativePath": "api/vi/usuario/por-cpfcnpj/{cpfCnpj}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cpfCnpj",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_Pessoa_Usuario.Controllers.UsuarioController",
+    "Method": "GetUsuarioPorId",
+    "RelativePath": "api/vi/usuario/por-id/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_Pessoa_Usuario.Controllers.UsuarioController",
+    "Method": "GetUsuarioPorIdentidade",
+    "RelativePath": "api/vi/usuario/por-identidade/{identidade}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "identidade",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

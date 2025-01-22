@@ -1,0 +1,97 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\repos\\AutoCom\\API_Pessoa_Usuario - Dapper\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C039E4F-DB5A-4FE8-8C37-CCB284DC5937}|API_Pessoa_Usuario\\API_Pessoa_Usuario_Dapper.csproj|c:\\repos\\autocom\\api_pessoa_usuario - dapper\\api_pessoa_usuario\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C039E4F-DB5A-4FE8-8C37-CCB284DC5937}|API_Pessoa_Usuario\\API_Pessoa_Usuario_Dapper.csproj|solutionrelative:api_pessoa_usuario\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C039E4F-DB5A-4FE8-8C37-CCB284DC5937}|API_Pessoa_Usuario\\API_Pessoa_Usuario_Dapper.csproj|c:\\repos\\autocom\\api_pessoa_usuario - dapper\\api_pessoa_usuario\\utilities\\passwordhash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C039E4F-DB5A-4FE8-8C37-CCB284DC5937}|API_Pessoa_Usuario\\API_Pessoa_Usuario_Dapper.csproj|solutionrelative:api_pessoa_usuario\\utilities\\passwordhash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C039E4F-DB5A-4FE8-8C37-CCB284DC5937}|API_Pessoa_Usuario\\API_Pessoa_Usuario_Dapper.csproj|c:\\repos\\autocom\\api_pessoa_usuario - dapper\\api_pessoa_usuario\\repository\\usuariorepository\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C039E4F-DB5A-4FE8-8C37-CCB284DC5937}|API_Pessoa_Usuario\\API_Pessoa_Usuario_Dapper.csproj|solutionrelative:api_pessoa_usuario\\repository\\usuariorepository\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsuarioRepository.cs",
+              "DocumentMoniker": "C:\\repos\\AutoCom\\API_Pessoa_Usuario - Dapper\\API_Pessoa_Usuario\\Repository\\UsuarioRepository\\UsuarioRepository.cs",
+              "RelativeDocumentMoniker": "API_Pessoa_Usuario\\Repository\\UsuarioRepository\\UsuarioRepository.cs",
+              "ToolTip": "C:\\repos\\AutoCom\\API_Pessoa_Usuario - Dapper\\API_Pessoa_Usuario\\Repository\\UsuarioRepository\\UsuarioRepository.cs",
+              "RelativeToolTip": "API_Pessoa_Usuario\\Repository\\UsuarioRepository\\UsuarioRepository.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwDwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T14:24:53.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\repos\\AutoCom\\API_Pessoa_Usuario - Dapper\\API_Pessoa_Usuario\\Entities\\Usuario.cs",
+              "RelativeDocumentMoniker": "API_Pessoa_Usuario\\Entities\\Usuario.cs",
+              "ToolTip": "C:\\repos\\AutoCom\\API_Pessoa_Usuario - Dapper\\API_Pessoa_Usuario\\Entities\\Usuario.cs",
+              "RelativeToolTip": "API_Pessoa_Usuario\\Entities\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T14:24:21.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PasswordHash.cs",
+              "DocumentMoniker": "C:\\repos\\AutoCom\\API_Pessoa_Usuario - Dapper\\API_Pessoa_Usuario\\Utilities\\PasswordHash.cs",
+              "RelativeDocumentMoniker": "API_Pessoa_Usuario\\Utilities\\PasswordHash.cs",
+              "ToolTip": "C:\\repos\\AutoCom\\API_Pessoa_Usuario - Dapper\\API_Pessoa_Usuario\\Utilities\\PasswordHash.cs",
+              "RelativeToolTip": "API_Pessoa_Usuario\\Utilities\\PasswordHash.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T14:23:51.899Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "Q+0eZ+64svo=",
+  "success": true,
+  "projectFilePath": "C:\\repos\\AutoCom\\API_Pessoa_Usuario - Dapper\\API_Pessoa_Usuario\\API_Pessoa_Usuario_Dapper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vieir\\.nuget\\packages\\dapper\\2.1.35\\dapper.2.1.35.nupkg.sha512",
+    "C:\\Users\\vieir\\.nuget\\packages\\dapper.contrib\\2.0.78\\dapper.contrib.2.0.78.nupkg.sha512",
+    "C:\\Users\\vieir\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.0\\microsoft.aspnetcore.openapi.9.0.0.nupkg.sha512",
+    "C:\\Users\\vieir\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\vieir\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.2\\microsoft.extensions.logging.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\vieir\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512",
+    "C:\\Users\\vieir\\.nuget\\packages\\npgsql\\9.0.2\\npgsql.9.0.2.nupkg.sha512",
+    "C:\\Users\\vieir\\.nuget\\packages\\scalar.aspnetcore\\2.0.1\\scalar.aspnetcore.2.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
