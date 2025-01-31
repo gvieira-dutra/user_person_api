@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "e3IRbKKifP9zyyP1cKeGYe5UwMXtS275uqDjlqkb/R0=",
+  "Source": "API_Pessoa_Usuario_EFCore",
+  "BasePath": "_content/API_Pessoa_Usuario_EFCore",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

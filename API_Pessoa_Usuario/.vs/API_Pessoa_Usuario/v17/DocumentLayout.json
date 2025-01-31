@@ -3,20 +3,13 @@
   "WorkspaceRootPath": "C:\\repos\\AutoCom\\user_person_api\\API_Pessoa_Usuario\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E811E51C-5717-4C8D-8BD1-C034BEFFFB99}|..\\API_Pessoa_Usuario - Dapper\\API_Pessoa_Usuario\\API_Pessoa_Usuario_Dapper.csproj|c:\\repos\\autocom\\user_person_api\\api_pessoa_usuario - dapper\\api_pessoa_usuario\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{D9F9FDAF-AF54-40D1-B8CC-FD373F86B974}|..\\API_Pessoa_Usuario - EF Core\\API_Pessoa_Usuario_EFCore\\API_Pessoa_Usuario_EFCore.csproj|c:\\repos\\autocom\\user_person_api\\api_pessoa_usuario - ef core\\api_pessoa_usuario_efcore\\repository\\usuariorepository\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E811E51C-5717-4C8D-8BD1-C034BEFFFB99}|..\\API_Pessoa_Usuario - Dapper\\API_Pessoa_Usuario\\API_Pessoa_Usuario_Dapper.csproj|c:\\repos\\autocom\\user_person_api\\api_pessoa_usuario - dapper\\api_pessoa_usuario\\api_pessoa_usuario.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+      "AbsoluteMoniker": "D:0:0:{D9F9FDAF-AF54-40D1-B8CC-FD373F86B974}|..\\API_Pessoa_Usuario - EF Core\\API_Pessoa_Usuario_EFCore\\API_Pessoa_Usuario_EFCore.csproj|c:\\repos\\autocom\\user_person_api\\api_pessoa_usuario - ef core\\api_pessoa_usuario_efcore\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C039E4F-DB5A-4FE8-8C37-CCB284DC5937}|API_Pessoa_Usuario\\API_Pessoa_Usuario.csproj|c:\\repos\\autocom\\user_person_api\\api_pessoa_usuario\\api_pessoa_usuario\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{2C039E4F-DB5A-4FE8-8C37-CCB284DC5937}|API_Pessoa_Usuario\\API_Pessoa_Usuario.csproj|solutionrelative:api_pessoa_usuario\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E811E51C-5717-4C8D-8BD1-C034BEFFFB99}|..\\API_Pessoa_Usuario - Dapper\\API_Pessoa_Usuario\\API_Pessoa_Usuario_Dapper.csproj|c:\\repos\\autocom\\user_person_api\\api_pessoa_usuario - dapper\\api_pessoa_usuario\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E811E51C-5717-4C8D-8BD1-C034BEFFFB99}|..\\API_Pessoa_Usuario - Dapper\\API_Pessoa_Usuario\\API_Pessoa_Usuario_Dapper.csproj|c:\\repos\\autocom\\user_person_api\\api_pessoa_usuario - dapper\\api_pessoa_usuario\\controllers\\pessoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D9F9FDAF-AF54-40D1-B8CC-FD373F86B974}|..\\API_Pessoa_Usuario - EF Core\\API_Pessoa_Usuario_EFCore\\API_Pessoa_Usuario_EFCore.csproj|c:\\repos\\autocom\\user_person_api\\api_pessoa_usuario - ef core\\api_pessoa_usuario_efcore\\utilities\\dbdiagnostics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,83 +19,49 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\repos\\AutoCom\\user_person_api\\API_Pessoa_Usuario - Dapper\\API_Pessoa_Usuario\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "..\\API_Pessoa_Usuario - Dapper\\API_Pessoa_Usuario\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\repos\\AutoCom\\user_person_api\\API_Pessoa_Usuario - Dapper\\API_Pessoa_Usuario\\Properties\\launchSettings.json",
-              "RelativeToolTip": "..\\API_Pessoa_Usuario - Dapper\\API_Pessoa_Usuario\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-22T15:03:33.323Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "API_Pessoa_Usuario.http",
-              "DocumentMoniker": "C:\\repos\\AutoCom\\user_person_api\\API_Pessoa_Usuario - Dapper\\API_Pessoa_Usuario\\API_Pessoa_Usuario.http",
-              "RelativeDocumentMoniker": "..\\API_Pessoa_Usuario - Dapper\\API_Pessoa_Usuario\\API_Pessoa_Usuario.http",
-              "ToolTip": "C:\\repos\\AutoCom\\user_person_api\\API_Pessoa_Usuario - Dapper\\API_Pessoa_Usuario\\API_Pessoa_Usuario.http",
-              "RelativeToolTip": "..\\API_Pessoa_Usuario - Dapper\\API_Pessoa_Usuario\\API_Pessoa_Usuario.http",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-01-22T15:03:27.431Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\repos\\AutoCom\\user_person_api\\API_Pessoa_Usuario\\API_Pessoa_Usuario\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "API_Pessoa_Usuario\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\repos\\AutoCom\\user_person_api\\API_Pessoa_Usuario\\API_Pessoa_Usuario\\Properties\\launchSettings.json",
-              "RelativeToolTip": "API_Pessoa_Usuario\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-22T15:03:18.059Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UsuarioController.cs",
-              "DocumentMoniker": "C:\\repos\\AutoCom\\user_person_api\\API_Pessoa_Usuario - Dapper\\API_Pessoa_Usuario\\Controllers\\UsuarioController.cs",
-              "RelativeDocumentMoniker": "..\\API_Pessoa_Usuario - Dapper\\API_Pessoa_Usuario\\Controllers\\UsuarioController.cs",
-              "ToolTip": "C:\\repos\\AutoCom\\user_person_api\\API_Pessoa_Usuario - Dapper\\API_Pessoa_Usuario\\Controllers\\UsuarioController.cs",
-              "RelativeToolTip": "..\\API_Pessoa_Usuario - Dapper\\API_Pessoa_Usuario\\Controllers\\UsuarioController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "DbDiagnostics.cs",
+              "DocumentMoniker": "C:\\repos\\AutoCom\\user_person_api\\API_Pessoa_Usuario - EF Core\\API_Pessoa_Usuario_EFCore\\Utilities\\DbDiagnostics.cs",
+              "RelativeDocumentMoniker": "..\\API_Pessoa_Usuario - EF Core\\API_Pessoa_Usuario_EFCore\\Utilities\\DbDiagnostics.cs",
+              "ToolTip": "C:\\repos\\AutoCom\\user_person_api\\API_Pessoa_Usuario - EF Core\\API_Pessoa_Usuario_EFCore\\Utilities\\DbDiagnostics.cs",
+              "RelativeToolTip": "..\\API_Pessoa_Usuario - EF Core\\API_Pessoa_Usuario_EFCore\\Utilities\\DbDiagnostics.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAgwEUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T15:01:03.923Z",
+              "WhenOpened": "2025-01-30T20:58:32.907Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "PessoaController.cs",
-              "DocumentMoniker": "C:\\repos\\AutoCom\\user_person_api\\API_Pessoa_Usuario - Dapper\\API_Pessoa_Usuario\\Controllers\\PessoaController.cs",
-              "RelativeDocumentMoniker": "..\\API_Pessoa_Usuario - Dapper\\API_Pessoa_Usuario\\Controllers\\PessoaController.cs",
-              "ToolTip": "C:\\repos\\AutoCom\\user_person_api\\API_Pessoa_Usuario - Dapper\\API_Pessoa_Usuario\\Controllers\\PessoaController.cs",
-              "RelativeToolTip": "..\\API_Pessoa_Usuario - Dapper\\API_Pessoa_Usuario\\Controllers\\PessoaController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\repos\\AutoCom\\user_person_api\\API_Pessoa_Usuario - EF Core\\API_Pessoa_Usuario_EFCore\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "..\\API_Pessoa_Usuario - EF Core\\API_Pessoa_Usuario_EFCore\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\repos\\AutoCom\\user_person_api\\API_Pessoa_Usuario - EF Core\\API_Pessoa_Usuario_EFCore\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "..\\API_Pessoa_Usuario - EF Core\\API_Pessoa_Usuario_EFCore\\Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAIwH8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T15:00:56.891Z",
+              "WhenOpened": "2025-01-30T20:31:19.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsuarioRepository.cs",
+              "DocumentMoniker": "C:\\repos\\AutoCom\\user_person_api\\API_Pessoa_Usuario - EF Core\\API_Pessoa_Usuario_EFCore\\Repository\\UsuarioRepository\\UsuarioRepository.cs",
+              "RelativeDocumentMoniker": "..\\API_Pessoa_Usuario - EF Core\\API_Pessoa_Usuario_EFCore\\Repository\\UsuarioRepository\\UsuarioRepository.cs",
+              "ToolTip": "C:\\repos\\AutoCom\\user_person_api\\API_Pessoa_Usuario - EF Core\\API_Pessoa_Usuario_EFCore\\Repository\\UsuarioRepository\\UsuarioRepository.cs*",
+              "RelativeToolTip": "..\\API_Pessoa_Usuario - EF Core\\API_Pessoa_Usuario_EFCore\\Repository\\UsuarioRepository\\UsuarioRepository.cs*",
+              "ViewState": "AgIAADIAAAAAAAAAAAAgwKYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T16:31:07.341Z",
               "EditorCaption": ""
             }
           ]
@@ -113,8 +72,26 @@
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
             },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 49,
+          "SelectedChildIndex": -1,
+          "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"

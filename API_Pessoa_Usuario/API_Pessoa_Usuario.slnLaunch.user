@@ -9,6 +9,10 @@
       {
         "Path": "..\\API_Pessoa_Usuario - Dapper\\API_Pessoa_Usuario\\API_Pessoa_Usuario_Dapper.csproj",
         "Action": "Start"
+      },
+      {
+        "Path": "..\\API_Pessoa_Usuario - EF Core\\API_Pessoa_Usuario_EFCore\\API_Pessoa_Usuario_EFCore.csproj",
+        "Action": "Start"
       }
     ]
   }

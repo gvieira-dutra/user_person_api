@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API_Pessoa_Usuario", "API_P
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API_Pessoa_Usuario_Dapper", "..\API_Pessoa_Usuario - Dapper\API_Pessoa_Usuario\API_Pessoa_Usuario_Dapper.csproj", "{E811E51C-5717-4C8D-8BD1-C034BEFFFB99}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API_Pessoa_Usuario_EFCore", "..\API_Pessoa_Usuario - EF Core\API_Pessoa_Usuario_EFCore\API_Pessoa_Usuario_EFCore.csproj", "{D9F9FDAF-AF54-40D1-B8CC-FD373F86B974}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{E811E51C-5717-4C8D-8BD1-C034BEFFFB99}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E811E51C-5717-4C8D-8BD1-C034BEFFFB99}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E811E51C-5717-4C8D-8BD1-C034BEFFFB99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9F9FDAF-AF54-40D1-B8CC-FD373F86B974}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9F9FDAF-AF54-40D1-B8CC-FD373F86B974}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9F9FDAF-AF54-40D1-B8CC-FD373F86B974}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9F9FDAF-AF54-40D1-B8CC-FD373F86B974}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
